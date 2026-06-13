@@ -1,4 +1,3 @@
----
 # Portfolio — Abhinay Sucharith
 
 ![HTML](https://img.shields.io/badge/HTML-53.9%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -6,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Netlify-Deployed-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-**Live:** https://abhinay7.netlify.app
+Live: https://abhinay7.netlify.app
 
 Personal developer portfolio. Dark editorial minimal. Every element earns its space.
 
@@ -26,16 +25,15 @@ Design decisions:
 
 ## Stack
 
-- HTML / CSS / Vanilla JavaScript — no frameworks, no build tools
-- Deployed on Netlify via GitHub push — live in under 5 minutes after `git push`
-- Cost: ₹0
+HTML / CSS / Vanilla JavaScript — no frameworks, no build tools
+Deployed on Netlify via GitHub push — live in under 5 minutes after git push
+Cost: ₹0
 
 ---
 
 ## Projects Featured
 
-- [EMERALD](https://github.com/Abhinay6699/Emerald) — GPT-style transformer from scratch
-- [TruthLens](https://github.com/Abhinay6699/Fakenews-Detection-using-AI) — Fake news detection NLP pipeline
-- [trading_bot](https://github.com/Abhinay6699/trading_bot) — Binance Futures CLI bot
-- [Arvyax Assignment](https://github.com/Abhinay6699/Arvyax_assignment) — Emotional state ML pipeline
----
+- EMERALD (https://github.com/Abhinay6699/Emerald) — GPT-style transformer from scratch
+- TruthLens (https://github.com/Abhinay6699/Fakenews-Detection-using-AI) — Fake news detection NLP pipeline
+- trading_bot (https://github.com/Abhinay6699/trading_bot) — Binance Futures CLI bot
+- Arvyax Assignment (https://github.com/Abhinay6699/Arvyax_assignment) — Emotional state ML pipeline
